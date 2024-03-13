@@ -1,0 +1,19 @@
+/* Members-specific styles go here */
+h2 {
+    color: #28a745; /* Green color */
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838; /* Darker shade of green on hover */
+}
+
+/* Add more members-specific styles as needed */
