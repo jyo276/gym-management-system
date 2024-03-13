@@ -1,0 +1,19 @@
+/* Admin-specific styles go here */
+h2 {
+    color: #007bff; /* Blue color */
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker shade of blue on hover */
+}
+
+/* Add more admin-specific styles as needed */
